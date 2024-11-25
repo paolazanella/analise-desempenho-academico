@@ -1,0 +1,16 @@
+# Ignorar o ambiente virtual (assumindo que o nome da pasta seja 'venv')
+venv/
+# Ignorar arquivos compilados Python
+*.pyc
+*.pyo
+__pycache__/
+# Ignorar arquivos de configuração do IDE (caso esteja usando VSCode)
+.vscode/
+# Ignorar arquivos de dependências do Python
+*.pydistutils.cfg
+*.egg-info/
+# Ignorar outros arquivos temporários
+*.log
+*.db
+*.sqlite
+
