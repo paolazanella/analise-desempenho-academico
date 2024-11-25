@@ -40,7 +40,13 @@ projeto-analise-notas/
 
 ## 🛠️ Com Ambiente Virtual
 
-1. **Ative o ambiente virtual:**
+1. **Crie o ambiente virtual:**
+
+   ```bash
+   python3 -m venv venv_m3
+   ```
+
+2. **Ative o ambiente virtual:**
 
    - **Windows:**
 
@@ -53,20 +59,20 @@ projeto-analise-notas/
      source venv_m3/bin/activate
      ```
 
-2. **Instale as dependências:**
+3. **Instale as dependências:**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Execute o programa:**
+4. **Execute o programa:**
    Navegue até o diretório `src` e execute:
 
    ```bash
    python main.py
    ```
 
-4. **(Opcional) Desative o ambiente virtual:**
+5. **(Opcional) Desative o ambiente virtual:**
    ```bash
    deactivate
    ```
