@@ -88,7 +88,7 @@ projeto-analise-notas/
    Navegue até o diretório `src` e execute:
 
    ```bash
-   python main.py
+   python3 main.py
    ```
 
 ## Resultados Esperados
